@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tonmoy Hossain"
+title                    : "Nusrat Jahan Mozumder"
 title_separator          : "-"
-name                     : &name "Tonmoy Hossain"
+name                     : &name "Nusrat Jahan Mozumder"
 description              : &description "personal description"
-url                      : https://tonmoy-hossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nusratdeeptee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tonmoy-hossain/tonmoy-hossain.github.io"
+repository               : "nusratdeeptee/nusratdeeptee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tonmoy Hossain"
-  avatar           : "final_picture.jpg"
+  name             : "Nusrat Jahan Mozumder"
+  avatar           : "official_picture.jpeg"
   bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
   location         : "Virginia, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JoLJE7AAAAAJ&hl=en"
   DBLP             : 
-  email            :  pwg7jb@virginia.edu
+  email            :  nm8tm@virginia.edu
   researchgate     :  "https://www.researchgate.net/profile/Tonmoy_Hossain2"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tonmoy-hossain"
+  github           : "nusratdeeptee"
   google_plus      :
   keybase          :
   instagram        :
