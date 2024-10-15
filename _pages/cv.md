@@ -12,35 +12,35 @@ redirect_from:
 <b>Ph.D. in Computer Science (ongoing)</b><br />
 University of Virginia<br />
 Virginia, United States<br />
-<i style='color:#000099;'>**August 2021 - Present**</i>
+<i style='color:#000099;'>**August 2020 - Present**</i>
 
 <b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
+Bangladesh University of Engineering and Technology<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**May 2015 - July 2019**</i>
+<i style='color:#000099;'>**February 2013 - September 2017**</i>
 
 ## Employment 
 -------------
 <b>Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**January 2020 - August 2021**</i><br/>
+Notre Dame University Bangladesh<br />
+<i style='color:#000099;'>**January 2018 - December 2020**</i><br/>
 
-<b>Adjunct Lecturer</b><br />
+<b>Lecturer</b><br />
 Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**August 2019 - January 2020**</i>
+Southeast University<br />
+<i style='color:#000099;'>**October 2017 - December 2017**</i>
 
-[Download Full CV](https://tonmoy-hossain.github.io/files/TonmoyHossainCV.pdf) [<ins>*Last Updated on September 25, 2021*</ins>]
+[Download Full CV]() [<ins>*Last Updated on September 25, 2021*</ins>]
 
 ## Contact Me
 -------------
 
-**Email:** pwg7jb [at] virginia [dot] edu, tonmoyhossain.cse [at] ieee [dot] org<br /> 
+**Email:** nm8tm [at] virginia [dot] edu<br /> 
  <br /> 
-**Website:** [https://tonmoy-hossain.github.io](https://tonmoy-hossain.github.io/) <br />
+**Website:** [https://nusratjahanmozumder.github.io](https://nusratjahanmozumder.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ), [Github](https://github.com/tonmoy-hossain).
+You can also find me on [Google Scholar](), [Github](https://github.com/nusratdeeptee).
 
 
 **Address:**
