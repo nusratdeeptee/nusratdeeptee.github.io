@@ -31,7 +31,7 @@ Department of Computer Science and Engineering <br/>
 Southeast University<br />
 <i style='color:#000099;'>**October 2017 - December 2017**</i>
 
-[Download Full CV]() [<ins>*Last Updated on October 20, 2024*</ins>]
+[Download Full CV](https://nusratdeeptee.github.io/files/NusratJahanMozumderCV.pdf) [<ins>*Last Updated on October 20, 2024*</ins>]
 
 ## Contact Me
 -------------
