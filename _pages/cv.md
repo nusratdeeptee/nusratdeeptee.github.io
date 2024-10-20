@@ -31,14 +31,14 @@ Department of Computer Science and Engineering <br/>
 Southeast University<br />
 <i style='color:#000099;'>**October 2017 - December 2017**</i>
 
-[Download Full CV]() [<ins>*Last Updated on September 25, 2021*</ins>]
+[Download Full CV]() [<ins>*Last Updated on October 20, 2024*</ins>]
 
 ## Contact Me
 -------------
 
 **Email:** nm8tm [at] virginia [dot] edu<br /> 
  <br /> 
-**Website:** [https://nusratjahanmozumder.github.io](https://nusratjahanmozumder.github.io/) <br />
+**Website:** [https://nusratdeeptee.github.io](https://nusratdeeptee.github.io/) <br />
 
 You can also find me on [Google Scholar](), [Github](https://github.com/nusratdeeptee).
 
