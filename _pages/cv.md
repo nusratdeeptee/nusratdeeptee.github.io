@@ -40,7 +40,7 @@ Southeast University<br />
  <br /> 
 **Website:** [https://nusratdeeptee.github.io](https://nusratdeeptee.github.io/) <br />
 
-You can also find me on [Google Scholar](), [Github](https://github.com/nusratdeeptee).
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=zgls6-EAAAAJ&hl=en&authuser=1&oi=ao), [Github](https://github.com/nusratdeeptee).
 
 
 **Address:**
