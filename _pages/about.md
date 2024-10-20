@@ -22,7 +22,7 @@ This is Nusrat Jahan Mozumder, a Ph.D. in CS student at the University of Virgin
 
 
 # Activities 
-
+* <span style="color:Blue"> [Oct 15, 2024] </span> - Got best poster award for outstanding research and presentation at the UVa Research Symposium 2024. 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
