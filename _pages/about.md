@@ -12,9 +12,11 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
+This is Tonmoy Hossain, a third-year Ph.D. in CS student at the University of Virginia. I am working as a Graduate Research Assistant at the MIA Lab under the supervision of <a href="https://www.cs.virginia.edu/~mz8rr/index.html">Prof. Miaomiao Zhang</a>. I am also serving as a Graduate Program Representative at <a href="https://csgsg.org/">UVA CSGSG</a>. My primary research interest lies in Computer Vision, Image Analysis and Causal Inference.<br /><br /></div>
+ 
+<b> I am open to any Research Collaborations in the field of *Multimodal Representation*, *Generative AI*, *Shape Analysis*, and *Causal Inference*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:pwg7jb@virginia.edu"><i class="fas fa-envelope"></i></a> <br />  
 
-
-**For additional information, please see the [CV](https://nusratdeeptee.github.io/cv/) and [publications](https://nusratdeeptee.github.io/publications/).**
+**For additional information, please see the [CV](https://tonmoy-hossain.github.io/cv/) and [publications](https://tonmoy-hossain.github.io/publications/).**
 
 -----------
 
@@ -51,7 +53,6 @@ Greetings!!!
 * <span style="color:Blue"> [Mar 23, 2019] </span> - Ranked 7th position at [Inter University Math Olympiad](http://tonmoy-hossain.github.io/files/Math_Olympiad.pdf)
 * <span style="color:Blue"> [Mar 13, 2019] </span> - One [journal paper](https://thesai.org/Downloads/Volume10No3/Paper_68-A_Gender_Neutral_Approach_to_Detect_Early_Alzheimers_Disease.pdf) got accepted to [International Journal of Advanced Computer Science and Applications (IJACSA)](https://thesai.org/Publications/IJACSA/)
 * <span style="color:Blue"> [Mar 1, 2019] </span> - One [journal paper](https://www.ijser.org/researchpaper/Brain-Tumor-Segmentation-Techniques-on-Medical-Images-A-Review.pdf) got accepted.
-
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
