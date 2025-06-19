@@ -22,6 +22,8 @@ This is Nusrat Jahan Mozumder, a Ph.D. in CS student at the University of Virgin
 
 
 # Activities 
+* <span style="color:Blue"> [Jun 15, 2025] </span> - I have started my research internship at CyLab, Carnegie Mellon University, collaborating with NASA Ames Research Center on testing and repairing deep neural networks.
+* <span style="color:Blue"> [Apr 4, 2025] </span> - Our Paper [RBT4DNN: Requirements-based Testing of Neural Networks](https://arxiv.org/abs/2504.02737) is now online!!!
 * <span style="color:Blue"> [Oct 15, 2024] </span> - Got best poster award for outstanding research and presentation at the UVa Research Symposium 2024.
 * <span style="color:Blue"> [Oct, 2023] </span> - Got End-of-Year Computer Science Department Outstanding Service Award, UVa.
 * <span style="color:Blue"> [Jan, 2023] </span> - Started working as the Chair of Computer Science Graduate Student Group (CSGSG), UVa.
